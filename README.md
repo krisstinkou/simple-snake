@@ -5,4 +5,7 @@ This repository contains source code for simple game "Snake" on Python with pyga
 Before start installing module pygame with terminal:
 pip install pygame
 
+Start game with terminal:
+python game.py
+
 Source: pythonist.ru
